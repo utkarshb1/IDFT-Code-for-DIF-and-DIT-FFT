@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Utkarsh/Documents/ISE/dit_ifft_8_point/dit_ifft_8pt.xst" -ofn "C:/Users/Utkarsh/Documents/ISE/dit_ifft_8_point/dit_ifft_8pt.syr" 
+xst -intstyle ise -ifn "C:/Users/Utkarsh/Documents/ISE/dit_ifft_8_point/dit_ifft_8pt.xst" -ofn "C:/Users/Utkarsh/Documents/ISE/dit_ifft_8_point/dit_ifft_8pt.syr" 

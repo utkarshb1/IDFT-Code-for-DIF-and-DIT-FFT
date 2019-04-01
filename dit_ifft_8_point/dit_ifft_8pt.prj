@@ -1,0 +1,3 @@
+vhdl work "dit_ifft_pkg.vhd"
+vhdl work "butterfly.vhd"
+vhdl work "dit_ifft_8pt.vhd"

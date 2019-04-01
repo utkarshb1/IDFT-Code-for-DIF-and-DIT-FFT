@@ -1,0 +1,3 @@
+work	"butterfly.vhd"
+work	"dit_ifft_8pt.vhd"
+work	"dit_ifft_pkg.vhd"

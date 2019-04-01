@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Utkarsh/Documents/ISE/dit_ifft_8_point/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Utkarsh/Documents/ISE/dit_ifft_8_point/xst"
+elaborate
+-ifn dit_ifft_pkg.prj
+-ifmt mixed
