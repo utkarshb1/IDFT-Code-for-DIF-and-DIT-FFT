@@ -1,0 +1,4 @@
+vhdl work "dif_ifft_pkg.vhd"
+vhdl work "butterfly.vhd"
+vhdl work "dif_ifft_8pt.vhd"
+vhdl work "tb_dif_ifft.vhd"
